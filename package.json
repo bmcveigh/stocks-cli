@@ -1,0 +1,14 @@
+{
+  "name": "stocks",
+  "version": "1.0.0",
+  "description": "Provide a cli to view stock data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian McVeigh",
+  "license": "ISC",
+  "dependencies": {
+    "google-finance": "^0.1.10"
+  }
+}
